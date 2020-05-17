@@ -30,5 +30,6 @@ The public part of my website, you can found it here: [https://www.castellanidav
 
 ---
 Made by Castellani Davide
-If you have any problem please contact us:
+If you have any problem please contact me:
 - [contacts@castellanidavide.it](mailto:contacts@castellanidavide.it)
+- on [Issue](https://github.com/CastellaniDavide/WebSite-public/issues)
