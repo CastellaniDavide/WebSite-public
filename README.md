@@ -6,6 +6,7 @@
 ![Language php, html, ...](https://img.shields.io/badge/language-php,%20html,query-yellowgreen?style=flat)
 ![sys.platform supported](https://img.shields.io/badge/os%20platform%20supported-Windows%2010%20&%20Linux%20&%20Mac%20OS-blue?style=flat)
 [![On GitHub](https://img.shields.io/badge/on%20GitHub-True-green?style=flat&logo=github)](https://github.com/CastellaniDavide/WebSite-public)
+![PHP Composer](https://github.com/CastellaniDavide/WebSite-public/workflows/PHP%20Composer/badge.svg)
 
 ## Tags
  #php, #html, #WebSite, #DataBase, #mysql, #cloud
