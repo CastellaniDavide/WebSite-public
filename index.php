@@ -29,7 +29,7 @@
             header('Location: ./Loghi.php?location="Loghi"');
             break;
         case '"login"':
-            header('Location: ./managemywebsite.php?location=%27Manage%20WebSite"');
+            header('Location: ./managemywebsite.php?location="Manage%20WebSite"');
             break;
         default:
         echo "<div class='card-columns'>";

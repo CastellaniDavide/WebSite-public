@@ -1,6 +1,6 @@
 <?php
     # logo
-    echo "<body data-gr-c-s-loaded='true'><header><nav class='navbar navbar-expand-sm navbar-toggleable-sm navbar-light fixed-top bg-navbar border-bottom box-shadow mb-3'><div class='container'><a class='navbar-brand' href='./chisono.php?location=-Chi sono-'>Davide Castellani</a><button class='navbar-toggler' type='button' data-toggle='collapse' data-target='.navbar-collapse' aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation'><span class='navbar-toggler-icon'></span></button><div class='navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse'>";
+    echo "<body data-gr-c-s-loaded='true'><header><nav class='navbar navbar-expand-sm navbar-toggleable-sm navbar-light fixed-top bg-navbar border-bottom box-shadow mb-3'><div class='container'><a class='navbar-brand' href='./chisono.php?location=&amp;Chi sono&amp;'>Davide Castellani</a><button class='navbar-toggler' type='button' data-toggle='collapse' data-target='.navbar-collapse' aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation'><span class='navbar-toggler-icon'></span></button><div class='navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse'>";
     
     # init navbar 
     echo "<ul class='navbar-nav flex-grow-1'>";
